@@ -57,7 +57,7 @@ The included notebook, `Qiskit Fall Fest.ipynb`, contains:
 
 ## How to Run
 
-1. Visit the original source file on google colab- https://colab.research.google.com/drive/1Sd6SDW3XK4tm9BGqvDBo3SJZNoST-398?usp=sharing
+1. Visit the original source file on google colab and run- https://colab.research.google.com/drive/1HbL7sBXHWrUdce49QkUqZTuN5cJnxfs5?usp=sharing
    
 2. Or run the code on device after installimg libraries- qiskit numpy networkx matplotlib tqdm
 
